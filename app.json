@@ -1,0 +1,46 @@
+{
+  "id": "a16d8ce4-752d-46c3-a7cd-e869692d074b",
+  "name": "CustomerRewards",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+       "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+       "publisher": "Microsoft",
+       "name": "System Application",
+       "version": "1.0.0.0"
+     },
+     {
+       "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+       "publisher": "Microsoft",
+       "name": "Base Application",
+       "version": "20.0.0.0"
+     }
+
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 89000,
+      "to": 89149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
